@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe tối ở mép trái,added,AI bỏ sót xe ở mép trái; thân xe nhìn rõ và đủ ranh giới theo guideline
+1,frame_0107.jpg,vệt đèn phản quang trên mặt đường,deleted,Không phải xe; đây là ánh sáng không phải thân xe nên xóa khung
+1,frame_0326.jpg,xe giữa làn đường,edited,Khung AI lệch khỏi thân xe, kéo sát ôm đủ thân, gương và đèn theo quy tắc khoanh xe
